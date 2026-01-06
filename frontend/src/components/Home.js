@@ -3,7 +3,7 @@ import React from 'react';
 function Home() {
   return (
     <main>
-      <h2>Welcome to the MERN App</h2>
+      <h2>Welcome to the MERN stack App</h2>
     </main>
   );
 }
